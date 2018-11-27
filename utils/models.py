@@ -1,4 +1,4 @@
-#key value model structure used by factory
+# key value model structure used by factory
 class KeyValue(object):
     def __init__(self, keyRec, valRec):
         self.keyRec = keyRec
